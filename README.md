@@ -11,5 +11,5 @@ It features a U-NET model, which was created to assist in biomedical image segme
 ## Results
 To see our project's effectiveness, view the end of our model pipeline. It features a random sampling of portaits and our model's segmenting ability on them.
 
-
+<div>
 Project in association with ACM UCSD. Thank you to Vincent for being a great advisor!
